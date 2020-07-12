@@ -1,0 +1,27 @@
+body{
+ background-image: url(bgk.gif);
+ background-repeat: no-repeat, repeat;
+    background-size: cover;
+   
+}
+
+.gif{
+    text-align: center;
+}
+
+.time{
+    text-align: center;
+}
+h1 {
+    margin-top: auto;
+    display: inline-block;
+  
+}
+.sa{
+    width: 20%;
+    height: 20%;
+}
+
+.btn{
+    background-color: antiquewhite;
+}
